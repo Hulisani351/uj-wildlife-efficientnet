@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "checkpoint_sha256": "cbc8a7e42d4805d0915ea8072279f4983b44945facfe9584eedd7dd545751d9b",
+  "gallery_sha256": "b69b5759a5a566ee3a1044b99106349ca4c4cc73eed085b4d95990ea8484fa1d",
+  "flip_average": true,
+  "center": 0.5,
+  "density": 0.5,
+  "margin_weight": 1.0,
+  "threshold": 0.4889033119082451,
+  "release_passed": true
+}
